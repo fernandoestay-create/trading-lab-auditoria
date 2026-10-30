@@ -1,0 +1,16 @@
+.venv/
+datos/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+*.duckdb
+*.parquet
+config/credenciales*
+.env
+*.pem
+*.key
+private.pem
+public.pem
+.env*
+!.env.example
